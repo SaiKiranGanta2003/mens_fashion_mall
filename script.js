@@ -1,4 +1,4 @@
-
+alert('the website is only for showcasing my skills')
 const allItems=[
     {
         name:'Braclite',
